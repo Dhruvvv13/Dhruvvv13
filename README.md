@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hey 👋, I'm Dhruv Mistry</h1>
 
 <h3 align="center">
