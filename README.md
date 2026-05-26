@@ -1,46 +1,53 @@
-<h1 align="center">Hola! I'm Dhruv Mistry</h1>
+<h1 align="center">Dhruv Mistry</h1>
 
 <p align="center">
-AI & ML Undergraduate • Computer Vision • Backend
+AI & ML Undergraduate • Computer Vision • Backend Engineering
 </p>
 
 <p align="center">
-Building scalable AI systems & intelligent applications.
+Building scalable AI systems and intelligent applications.
 </p>
 
 <p align="center">
   <a href="https://github.com/Dhruvvv13">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="38"/>
   </a>
   
   <a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
   </a>
 
   <a href="mailto:dhruvmistry3377@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
   </a>
 </p>
 
 <p align="center">
-  Currently Exploring • MLOps • Kubernetes • Cloud AI
+Currently Exploring • MLOps • Kubernetes • Cloud-Native AI
 </p>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
 # <p align="center">Recognition</p>
 
 <p align="center">
-  🥈 <b>2nd Place</b> — PCU Ideathon 3.0 (‘RaySense’) <br>
-  🥇 <b>1st Place</b> — PCU BizQuest <br>
-  💡 <b>Finalist</b> — Smart India Hackathon 2025
+<b>2nd Place</b> — PCU Ideathon 3.0 (‘RaySense’)
+<br><br>
+<b>1st Place</b> — PCU BizQuest
+<br><br>
+<b>Finalist</b> — Smart India Hackathon 2025
 </p>
 
----
+<br>
 
-# <p align="center">⚡ Tech Stack</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:0f2027,50:203a43,100:2c5364"/>
+
+# <p align="center">Tech Stack</p>
 
 <p align="center">
-<b>Languages • ML & CV • Backend • Technologies</b>
+Languages • ML & CV • Backend • DevOps • Tools
 </p>
 
 <br>
@@ -50,13 +57,6 @@ Building scalable AI systems & intelligent applications.
 </p>
 
 <br>
-<p align="center">
-<b>Tools</b>
-</p>
-
-<p align="center">
-<b>Tools</b>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,anaconda" />
@@ -65,7 +65,11 @@ Building scalable AI systems & intelligent applications.
   
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
 </p>
----
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
 # <p align="center">Git Analysis</p>
 
 <div align="center">
@@ -87,5 +91,3 @@ Building scalable AI systems & intelligent applications.
 </table>
 
 </div>
-
-````
