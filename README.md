@@ -42,7 +42,7 @@ Currently Exploring • MLOps • Kubernetes • Cloud-Native AI
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:0f2027,50:203a43,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=&fontSize=0&animation=fadeIn&color=0:ff0080,50:7928ca,100:00e5ff"/>
 
 # <p align="center">Tech Stack</p>
 
