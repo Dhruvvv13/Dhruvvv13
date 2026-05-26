@@ -1,9 +1,7 @@
-# 🚀 Enhanced GitHub Profile README — Om Manish Vibhute
-
 ````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Om%20Manish%20Vibhute&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Dhruv%20Mistry&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=55" width="100%"/>
 
 # Hey there 👋
 ### Building Applied AI Systems with Real-World Impact
@@ -13,13 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-manish-vibhute-616ab428b">
+  <a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:omvibhute322@gmail.com">
+
+  <a href="mailto:dhruvmistry3377@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Om072005">
+
+  <a href="https://github.com/Dhruvvv13">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -53,11 +53,11 @@ Currently Exploring:
 
 <div align="center">
 
-| Achievement                     | Recognition            |
-| ------------------------------- | ---------------------- |
-| 🥈 PCU Ideathon 3.0             | 2nd Place — RaySense   |
-| 🥇 PCU BizQuest                 | 1st Place              |
-| 💡 Smart India Hackathon 2025   | College-Level Finalist |
+| Achievement                   | Recognition            |
+| ----------------------------- | ---------------------- |
+| 🥈 PCU Ideathon 3.0           | 2nd Place — RaySense   |
+| 🥇 PCU BizQuest               | 1st Place              |
+| 💡 Smart India Hackathon 2025 | College-Level Finalist |
 
 </div>
 
@@ -152,56 +152,7 @@ Currently Exploring:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Om072005&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Dhruvvv13&style=for-the-badge&color=blueviolet" />
 
 </div>
 ```
-
----
-
-# 🎨 Aesthetic Improvements Added
-
-* Cleaner visual hierarchy
-* Modern dark-tech aesthetic
-* Animated typing header
-* Consistent color palette
-* Better spacing and sections
-* Professional achievement layout
-* Improved GitHub stats section
-* Better badge styling
-* More premium portfolio feel
-
----
-
-# 👀 Visual Preview (Structure)
-
-```text
-┌──────────────────────────────────────┐
-│ Animated Gradient Header             │
-│ Typing Animation                     │
-│ Social Buttons                       │
-├──────────────────────────────────────┤
-│ About Me Section                     │
-├──────────────────────────────────────┤
-│ Achievements Table                   │
-├──────────────────────────────────────┤
-│ Tech Stack Icons                     │
-├──────────────────────────────────────┤
-│ GitHub Stats + Streak + Graph        │
-├──────────────────────────────────────┤
-│ Current Focus                        │
-├──────────────────────────────────────┤
-│ Contact + Footer                     │
-└──────────────────────────────────────┘
-```
-
-# 🔥 Optional Additions You Can Add Later
-
-* Snake contribution animation
-* Spotify integration
-* LeetCode stats
-* Dev quote generator
-* AI project showcase cards
-* Visitor heatmap
-* 3D contribution graph
-* Custom portfolio website link
