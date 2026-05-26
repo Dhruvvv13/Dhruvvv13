@@ -107,19 +107,21 @@ Currently Exploring:
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=radical&hide_border=true&border_radius=18&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f2&bg_color=0d1117" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=tokyonight&hide_border=true&border_radius=14" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&border_radius=18&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=0d1117" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&theme=tokyo-night&hide_border=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
 
 </div>
+```
 
 ---
 
