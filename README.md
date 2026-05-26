@@ -72,6 +72,14 @@ Languages • ML & CV • Backend • DevOps • Tools
 
 # <p align="center">Git Analysis</p>
 
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00E5FF, #FF4ECD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+    Git Analysis
+  </span>
+</h1>
+
 <div align="center">
 
 <table>
