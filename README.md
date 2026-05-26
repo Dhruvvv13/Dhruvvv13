@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Dhruv Mistry</h1>
+<h1 align="center">Hola! I'm Dhruv Mistry</h1>
 
 <p align="center">
 AI & ML Undergraduate • Computer Vision • Backend
@@ -27,17 +27,11 @@ Building scalable AI systems & intelligent applications.
 </p>
 
 ---
-# 🏆 Recognition
+## 🏆 Recognition
 
-<div align="center">
-
-🥈 2nd Place — PCU Ideathon 3.0 (‘RaySense’)
-🥇 1st Place — PCU BizQuest
-💡 Finalist — Smart India Hackathon 2025
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient"/>
+<p align="center">
+🥈 PCU Ideathon 3.0 • 🥇 PCU BizQuest • 💡 SIH 2025 Finalist
+</p>
 
 ---
 
@@ -45,38 +39,15 @@ Building scalable AI systems & intelligent applications.
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,fastapi,flask,docker,kubernetes,gcp,git,github,vscode,anaconda" />
 
 <br><br>
 
-### AI / ML / CV
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-<br><br>
-
-### Backend & DevOps
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes,gcp,git,github" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,anaconda" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
 
 </div>
 
