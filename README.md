@@ -98,29 +98,6 @@ Languages • ML & CV • Backend • DevOps • Tools
     Git Analysis
   </span>
 </h1>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00E5FF&fire=FF4ECD&currStreakLabel=00E5FF&cache_seconds=1800"/>
-
-</td>
-
-<td align="center">
-
-<img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&radius=12&cache_seconds=1800"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvvv13&theme=github_dark" />
 </p>
