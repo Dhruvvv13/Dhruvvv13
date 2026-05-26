@@ -27,7 +27,7 @@ Building scalable AI systems & intelligent applications.
 </p>
 
 ---
-## <p align="center">Recognition</p>
+# <p align="center">Recognition</p>
 
 <p align="center">
   🥈 <b>2nd Place</b> — PCU Ideathon 3.0 (‘RaySense’) <br>
@@ -37,7 +37,7 @@ Building scalable AI systems & intelligent applications.
 
 ---
 
-## <p align="center">⚡ Tech Stack</p>
+# <p align="center">⚡ Tech Stack</p>
 
 <p align="center">
 <b>Languages • ML & CV • Backend • Technologies</b>
@@ -66,7 +66,7 @@ Building scalable AI systems & intelligent applications.
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
 </p>
 ---
-## 📊 GitHub Analytics
+# <p align="center">Git Analysis</p>
 
 <div align="center">
 
