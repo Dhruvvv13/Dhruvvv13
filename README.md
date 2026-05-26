@@ -33,7 +33,7 @@ Building intelligent systems focused on Computer Vision, scalable AI, and backen
 
 ## 🧠 About Me
 
-```yaml
+
 Name: Dhruv Mistry
 Location: Pune, India
 Education: B.Tech Computer Science (AI & ML)
@@ -108,20 +108,22 @@ Currently Exploring:
 ---
 
 
+ id="5w70h8"
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=radical&hide_border=true&border_radius=18&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f2&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4ecd&icon_color=ff4ecd&text_color=f8f8f2&border_radius=20" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&border_radius=18&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=0d1117" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&ring=ff4ecd&fire=ff4ecd&currStreakLabel=ff4ecd&border_radius=20" />
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=ff4ecd&line=ff4ecd&point=ffffff&area=true&hide_border=true&radius=16" />
 
 </div>
 ```
+
 
 ---
 
