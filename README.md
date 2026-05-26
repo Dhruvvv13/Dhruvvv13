@@ -26,10 +26,6 @@ Building scalable AI systems and intelligent applications.
 Currently Exploring • MLOps • Kubernetes • Cloud-Native AI
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruvvv13&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
-</p>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&text=&fontSize=0&color=0:00E5FF,50:7928CA,100:FF4ECD"/>
