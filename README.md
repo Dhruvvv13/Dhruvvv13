@@ -1,10 +1,6 @@
 <h1 align="center">Dhruv Mistry</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruvvv13&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
-</p>>
-
-<p align="center">
 AI & ML Undergraduate • Computer Vision • Backend Engineering
 </p>
 
