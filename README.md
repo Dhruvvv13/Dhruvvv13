@@ -27,7 +27,7 @@ Building scalable AI systems & intelligent applications.
 </p>
 
 ---
-## <p align="center">🏆 Recognition</p>
+## <p align="center">Recognition</p>
 
 <p align="center">
   🥈 <b>2nd Place</b> — PCU Ideathon 3.0 (‘RaySense’) <br>
@@ -37,16 +37,23 @@ Building scalable AI systems & intelligent applications.
 
 ---
 
-## <p align="center">⚡ Tech Stack</p>
+## <p align="center">Tech Stack</p>
 
 <p align="center">
-Python • Java • TensorFlow • OpenCV • FastAPI • Flask • Docker • Kubernetes • GCP • Git • GitHub
+<b>Languages • AI/ML • Backend • DevOps • Tools</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,flask,docker,kubernetes,gcp,git,github,vscode,anaconda" />
 </p>
 
 <p align="center">
-NumPy • Pandas • Scikit-Learn • Jupyter • Kaggle • VS Code • Anaconda
+  <img src="https://skillicons.dev/icons?i=jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
 </p>
-
 
 ---
 ## 📊 GitHub Analytics
