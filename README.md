@@ -1,56 +1,25 @@
 
-<h1 align="center">Hey 👋, I'm Dhruv Mistry</h1>
-
-<h3 align="center">
-AI & ML Undergraduate • Computer Vision Developer • Backend Enthusiast
-</h3>
-
-<p align="center">
-Building intelligent systems focused on Computer Vision, scalable AI, and backend infrastructure.
-</p>
-
-<br>
+<## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-</a>
+<table>
+<tr>
+<td align="center">
 
-<a href="mailto:dhruvmistry3377@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-</a>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00E5FF&fire=FF4ECD&currStreakLabel=00E5FF"/>
 
-<a href="https://github.com/Dhruvvv13">
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
-</a>
+</td>
+
+<td align="center">
+
+<img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&radius=12"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0F2027,50:203A43,100:2C5364"/>
-
-## 🧠 About Me
-
-Name: Dhruv Mistry
-Location: Pune, India
-Education: B.Tech Computer Science (AI & ML)
-
-Interests:
-  - Computer Vision
-  - Applied AI Systems
-  - Backend Infrastructure
-  - Scalable Machine Learning
-
-Currently Exploring:
-  - MLOps
-  - Kubernetes
-  - Cloud-Native AI
-
-
----
-
 # 🏆 Recognition
 
 <div align="center">
