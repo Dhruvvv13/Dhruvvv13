@@ -27,29 +27,26 @@ Building scalable AI systems & intelligent applications.
 </p>
 
 ---
-## 🏆 Recognition
+## <p align="center">🏆 Recognition</p>
 
 <p align="center">
-🥈 PCU Ideathon 3.0 • 🥇 PCU BizQuest • 💡 SIH 2025 Finalist
+  🥈 <b>2nd Place</b> — PCU Ideathon 3.0 (‘RaySense’) <br>
+  🥇 <b>1st Place</b> — PCU BizQuest <br>
+  💡 <b>Finalist</b> — Smart India Hackathon 2025
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## <p align="center">⚡ Tech Stack</p>
 
-<div align="center">
+<p align="center">
+Python • Java • TensorFlow • OpenCV • FastAPI • Flask • Docker • Kubernetes • GCP • Git • GitHub
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,fastapi,flask,docker,kubernetes,gcp,git,github,vscode,anaconda" />
+<p align="center">
+NumPy • Pandas • Scikit-Learn • Jupyter • Kaggle • VS Code • Anaconda
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
-
-</div>
 
 ---
 ## 📊 GitHub Analytics
