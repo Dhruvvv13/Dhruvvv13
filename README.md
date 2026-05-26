@@ -109,23 +109,13 @@ Currently Exploring:
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4ecd&icon_color=ff4ecd&text_color=f8f8f2&border_radius=20"/>
-</td>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4ecd&icon_color=ff4ecd&text_color=f8f8f2&border_radius=20"/>
 
-<td>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&ring=ff4ecd&fire=ff4ecd&currStreakLabel=ff4ecd&border_radius=20"/>
-</td>
-</tr>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&ring=ff4ecd&fire=ff4ecd&currStreakLabel=ff4ecd&border_radius=20"/>
 
-<tr>
-<td colspan="2" align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=ff4ecd&line=00e5ff&point=ffffff&area=true&hide_border=true&radius=16"/>
-</td>
-</tr>
-</table>
+<br><br>
+
+<img width="80%" height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
