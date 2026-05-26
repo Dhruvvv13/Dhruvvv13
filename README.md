@@ -1,220 +1,139 @@
-
+````md
 <h1 align="center">Hey 👋, I'm Dhruv Mistry</h1>
 
 <h3 align="center">
 AI & ML Undergraduate • Computer Vision Developer • Backend Enthusiast
 </h3>
 
+<p align="center">
+Building intelligent systems focused on Computer Vision, scalable AI, and backend infrastructure.
+</p>
+
 <br>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
 
 <a href="mailto:dhruvmistry3377@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+
+<a href="https://github.com/Dhruvvv13">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
 </a>
 
 </div>
 
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0F2027,50:203A43,100:2C5364"/>
+
+## 🧠 About Me
+
+```yaml
+Name: Dhruv Mistry
+Location: Pune, India
+Education: B.Tech Computer Science (AI & ML)
+
+Interests:
+  - Computer Vision
+  - Applied AI Systems
+  - Backend Infrastructure
+  - Scalable Machine Learning
+
+Currently Exploring:
+  - MLOps
+  - Kubernetes
+  - Cloud-Native AI
+````
+
 ---
 
-### About Me
-
-- 🎓 B.Tech Computer Science (AI & ML)
-- 📍 Pune, India
-- 🤖 Building applied AI systems focused on Computer Vision
-- ⚡ Interested in Backend Infrastructure & Scalable AI
-- 🌱 Exploring MLOps, Kubernetes & Cloud AI Deployment
-
----
-
-### Recognition
+## 🏆 Recognition
 
 <div align="center">
 
-• 🥈 2nd Place — PCU Ideathon 3.0 (‘RaySense’)  
-• 🥇 1st Place — PCU BizQuest  
-• 💡 Finalist — Smart India Hackathon 2025  
+🥈 2nd Place — PCU Ideathon 3.0 (‘RaySense’)
+🥇 1st Place — PCU BizQuest
+💡 Finalist — Smart India Hackathon 2025
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient"/>
 
----
+## ⚡ Tech Stack
 
-### Tech Stack
+<div align="center">
 
-#### Languages • ML • Backend • Technologies
+### Languages
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
-<img width="12" />
+<br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
-<img width="12" />
+### AI / ML / CV
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42" />
-<img width="12" />
+<br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" />
-<img width="12" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" />
-<img width="12" />
+<br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" />
-<img width="12" />
+### Backend & DevOps
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" />
-<img width="12" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes,gcp,git,github" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" />
-
-</div>
-
----
+<br><br>
 
 ### Tools
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=vscode,anaconda" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" />
-<img width="12" />
+<br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="42" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dhruvvv13&style=for-the-badge&color=blueviolet" />
-
-</div>
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=tokyonight&hide_border=true&border_radius=14" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&theme=tokyo-night&hide_border=true" />
 
 </div>
-```
-
-
-# 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Achievement                   | Recognition            |
-| ----------------------------- | ---------------------- |
-| 🥈 PCU Ideathon 3.0           | 2nd Place — RaySense   |
-| 🥇 PCU BizQuest               | 1st Place              |
-| 💡 Smart India Hackathon 2025 | College-Level Finalist |
-
-</div>
 
 ---
 
-# ⚡ Tech Stack
+## 🌱 Current Focus
 
-<div align="center">
-
-## 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java" />
-
-## 🤖 AI / ML / Computer Vision
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-## ⚙️ Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes,gcp" />
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</p>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&theme=tokyo-night&hide_border=true&radius=16" />
-
-</div>
-
----
-
-# 🌱 Current Focus
-
-* 🔭 Building AI-powered real-world applications
+* 🤖 Building AI-powered real-world applications
 * 🧠 Improving Computer Vision pipelines
-* ⚡ Scaling backend systems using FastAPI & Docker
+* ⚡ Scaling backend systems with FastAPI & Docker
 * ☁️ Exploring Kubernetes & Cloud AI deployments
-* 📚 Continuously learning Deep Learning & MLOps
+* 📚 Learning Deep Learning optimization & MLOps
 
 ---
 
-# 💭 Developer Philosophy
-
-<div align="center">
-
-> "Technology becomes impactful when intelligence meets usability."
-
-</div>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -228,13 +147,13 @@ AI & ML Undergraduate • Computer Vision Developer • Backend Enthusiast
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Dhruvvv13&style=for-the-badge&color=blueviolet" />
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+```
