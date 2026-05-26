@@ -50,15 +50,14 @@ Building scalable AI systems & intelligent applications.
 </p>
 
 <br>
-
 <p align="center">
 <b>Tools</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" height="48"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="48"/>
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="42"/>
 </p>
 
 ---
