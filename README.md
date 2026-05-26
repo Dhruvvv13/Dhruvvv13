@@ -1,4 +1,4 @@
-````md
+```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Dhruv%20Mistry&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=55" width="100%"/>
@@ -45,7 +45,7 @@ Currently Exploring:
   - Deep Learning Optimization
   - MLOps & Kubernetes
   - Cloud-Native AI Deployment
-````
+```
 
 ---
 
@@ -155,4 +155,4 @@ Currently Exploring:
 <img src="https://komarev.com/ghpvc/?username=Dhruvvv13&style=for-the-badge&color=blueviolet" />
 
 </div>
-```
+
