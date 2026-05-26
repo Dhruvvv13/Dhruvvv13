@@ -1,53 +1,135 @@
-```md
+
+<h1 align="center">Hey 👋, I'm Dhruv Mistry</h1>
+
+<h3 align="center">
+AI & ML Undergraduate • Computer Vision Developer • Backend Enthusiast
+</h3>
+
+<br>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Dhruv%20Mistry&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision%20Developer&descAlignY=55" width="100%"/>
+<a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
+</a>
 
-# Hey there 👋
-### Building Applied AI Systems with Real-World Impact
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;Computer+Vision+Developer;Backend+Engineering+Enthusiast;FastAPI+%7C+TensorFlow+%7C+OpenCV;Building+Scalable+AI+Solutions" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:dhruvmistry3377@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Dhruvvv13">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:dhruvmistry3377@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
+</a>
 
 </div>
 
 ---
 
-# 🧠 About Me
+### About Me
 
-```yaml
-Name: Dhruv Mistry
-Location: Pune, India
-Education: B.Tech Computer Science (AI & ML)
-
-Focus Areas:
-  - Computer Vision
-  - Backend Infrastructure
-  - Applied Machine Learning
-  - Scalable AI Systems
-
-Currently Exploring:
-  - Deep Learning Optimization
-  - MLOps & Kubernetes
-  - Cloud-Native AI Deployment
-```
+- 🎓 B.Tech Computer Science (AI & ML)
+- 📍 Pune, India
+- 🤖 Building applied AI systems focused on Computer Vision
+- ⚡ Interested in Backend Infrastructure & Scalable AI
+- 🌱 Exploring MLOps, Kubernetes & Cloud AI Deployment
 
 ---
+
+### Recognition
+
+<div align="center">
+
+• 🥈 2nd Place — PCU Ideathon 3.0 (‘RaySense’)  
+• 🥇 1st Place — PCU BizQuest  
+• 💡 Finalist — Smart India Hackathon 2025  
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+
+---
+
+### Tech Stack
+
+#### Languages • ML • Backend • Technologies
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" />
+
+</div>
+
+---
+
+### Tools
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="42" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dhruvvv13&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&theme=tokyo-night&hide_border=true" />
+
+</div>
+```
+
 
 # 🏆 Achievements & Recognition
 
