@@ -33,7 +33,6 @@ Building intelligent systems focused on Computer Vision, scalable AI, and backen
 
 ## 🧠 About Me
 
-
 Name: Dhruv Mistry
 Location: Pune, India
 Education: B.Tech Computer Science (AI & ML)
@@ -48,11 +47,11 @@ Currently Exploring:
   - MLOps
   - Kubernetes
   - Cloud-Native AI
-````
+
 
 ---
 
-## 🏆 Recognition
+# 🏆 Recognition
 
 <div align="center">
 
@@ -62,9 +61,9 @@ Currently Exploring:
 
 </div>
 
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient"/>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -107,8 +106,6 @@ Currently Exploring:
 
 ---
 
-
- id="5w70h8"
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -122,18 +119,16 @@ Currently Exploring:
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=ff4ecd&line=ff4ecd&point=ffffff&area=true&hide_border=true&radius=16" />
 
 </div>
-```
-
 
 ---
 
 ## 🌱 Current Focus
 
-* 🤖 Building AI-powered real-world applications
-* 🧠 Improving Computer Vision pipelines
-* ⚡ Scaling backend systems with FastAPI & Docker
-* ☁️ Exploring Kubernetes & Cloud AI deployments
-* 📚 Learning Deep Learning optimization & MLOps
+- 🤖 Building AI-powered real-world applications
+- 🧠 Improving Computer Vision pipelines
+- ⚡ Scaling backend systems with FastAPI & Docker
+- ☁️ Exploring Kubernetes & Cloud AI deployments
+- 📚 Learning Deep Learning optimization & MLOps
 
 ---
 
@@ -160,4 +155,12 @@ Currently Exploring:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-```
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dhruvvv13&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+````
