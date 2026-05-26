@@ -115,7 +115,7 @@ Currently Exploring:
 
 <br><br>
 
-<img width="80%" height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
+<img width="70%" height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
