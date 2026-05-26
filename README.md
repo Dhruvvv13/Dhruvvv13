@@ -140,17 +140,3 @@ Languages • ML & CV • Backend • DevOps • Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruvvv13/Dhruvvv13/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&text=&fontSize=0&color=0:00E5FF,50:7928CA,100:FF4ECD"/>
-
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00E5FF, #FF4ECD);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">
-    Contribution Graph
-  </span>
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruvvv13/Dhruvvv13/output/github-contribution-grid-snake-dark.svg"/>
-</p>
