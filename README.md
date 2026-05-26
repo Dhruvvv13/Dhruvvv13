@@ -1,8 +1,7 @@
-
 <h1 align="center">Dhruv Mistry</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;Computer+Vision+Developer;Backend+Engineering+Enthusiast;Building+Scalable+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Undergraduate;Computer+Vision+Developer;Backend+Engineering+Enthusiast;Building+Scalable+AI+Systems&cursor=true&cursorColor=FF4ECD" />
 </p>
 
 <p align="center">
@@ -26,6 +25,10 @@ Building scalable AI systems and intelligent applications.
     <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
   </a>
 </p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&text=&fontSize=0&color=0:00E5FF,50:7928CA,100:FF4ECD"/>
 
 <p align="center">
 Currently Exploring • MLOps • Kubernetes • Cloud-Native AI
