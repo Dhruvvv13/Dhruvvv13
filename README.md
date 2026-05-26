@@ -1,25 +1,4 @@
 
-<## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00E5FF&fire=FF4ECD&currStreakLabel=00E5FF"/>
-
-</td>
-
-<td align="center">
-
-<img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&radius=12"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 # 🏆 Recognition
 
 <div align="center">
@@ -74,20 +53,27 @@
 </div>
 
 ---
-## ✦ GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=7df9ff&line=ff4ecd&point=ffffff&area=true&hide_border=true"/>
+<table>
+<tr>
+<td align="center">
 
-<br>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00E5FF&fire=FF4ECD&currStreakLabel=00E5FF"/>
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0d1117&ring=7df9ff&fire=ff4ecd&currStreakLabel=7df9ff"/>
+</td>
+
+<td align="center">
+
+<img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&radius=12"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
 ## 🌱 Current Focus
 
 - 🤖 Building AI-powered real-world applications
