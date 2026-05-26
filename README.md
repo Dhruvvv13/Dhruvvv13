@@ -70,7 +70,7 @@ Languages • ML & CV • Backend • DevOps • Tools
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# <p align="center">Git Analysis</p>
+
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #00E5FF, #FF4ECD);
