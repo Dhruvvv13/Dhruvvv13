@@ -91,42 +91,6 @@ Languages • ML & CV • Backend • DevOps • Tools
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&text=&fontSize=0&color=0:00E5FF,50:7928CA,100:FF4ECD"/>
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00E5FF, #FF4ECD);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">
-    Git Analysis
-  </span>
-</h1>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=00E5FF&fire=FF4ECD&currStreakLabel=00E5FF&cache_seconds=1800"/>
-
-</td>
-
-<td align="center">
-
-<img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&radius=12&cache_seconds=1800"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruvvv13&theme=github_dark" />
-</p>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&text=&fontSize=0&color=0:00E5FF,50:7928CA,100:FF4ECD"/>
 
 <h1 align="center">
@@ -140,4 +104,3 @@ Languages • ML & CV • Backend • DevOps • Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruvvv13/Dhruvvv13/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
