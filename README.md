@@ -1,8 +1,8 @@
 <h1 align="center">Dhruv Mistry</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;Computer+Vision+Developer;Backend+Engineering+Enthusiast;Building+Scalable+AI+Systems" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Dhruvvv13&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
+</p>>
 
 <p align="center">
 AI & ML Undergraduate • Computer Vision • Backend Engineering
