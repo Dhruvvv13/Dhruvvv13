@@ -1,4 +1,32 @@
+<h1 align="center">Hey 👋, I'm Dhruv Mistry</h1>
 
+<p align="center">
+AI & ML Undergraduate • Computer Vision • Backend
+</p>
+
+<p align="center">
+Building scalable AI systems & intelligent applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhruvvv13">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dhruv-mistry-1bb53728a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="mailto:dhruvmistry3377@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  Currently Exploring • MLOps • Kubernetes • Cloud AI
+</p>
+
+---
 # 🏆 Recognition
 
 <div align="center">
