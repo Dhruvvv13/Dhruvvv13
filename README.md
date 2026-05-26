@@ -74,17 +74,15 @@
 </div>
 
 ---
-## 📊 GitHub Analytics
+## ✦ GitHub Analytics
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dhruvvv13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4ecd&icon_color=ff4ecd&text_color=f8f8f2&border_radius=20"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=7df9ff&line=ff4ecd&point=ffffff&area=true&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0D1117&ring=ff4ecd&fire=ff4ecd&currStreakLabel=ff4ecd&border_radius=20"/>
+<br>
 
-<br><br>
-
-<img width="70%" height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvvv13&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvvv13&theme=radical&hide_border=true&background=0d1117&ring=7df9ff&fire=ff4ecd&currStreakLabel=7df9ff"/>
 
 </div>
 
