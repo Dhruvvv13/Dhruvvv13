@@ -1,5 +1,7 @@
 <h1 align="center">Dhruv Mistry</h1>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
 <p align="center">
 AI & ML Undergraduate • Computer Vision • Backend Engineering
 </p>
